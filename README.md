@@ -15,7 +15,7 @@ Tracker AI is an intelligent expense tracking application that transforms financ
 
 ## 🚀 Live Demo
 
-**[View Live Application](https://cost-tracker-five.vercel.app)**
+**https://cost-tracker-five.vercel.app**
 
 Experience the app in action! The application is deployed on Vercel and ready to use.
 
@@ -156,9 +156,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/yourusername/tracker-ai](https://github.com/yourusername/tracker-ai)
 
-## Acknowledgements
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [React Documentation](https://reactjs.org/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Chart.js Documentation](https://www.chartjs.org/docs/latest/)
