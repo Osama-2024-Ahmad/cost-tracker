@@ -74,8 +74,8 @@ Experience the app in action! The application is deployed on Vercel and ready to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/osama-2024-ahmad/tracker-ai.git
-   cd tracker-ai
+   git clone https://github.com/Osama-2024-Ahmad/cost-tracker.git
+   cd cost-tracker
    ```
 
 2. Install dependencies:
@@ -86,11 +86,7 @@ Experience the app in action! The application is deployed on Vercel and ready to
 
 3. Set up environment variables:
 
-   ```bash
-   cp .env.example .env.local
-   ```
-
-   Configure the following environment variables in your `.env.local` file:
+   Create a `.env` file in the root directory and configure the following environment variables:
 
    ```
    # Database Connection (PostgreSQL with Prisma)
@@ -154,5 +150,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-Project Link: [https://github.com/yourusername/tracker-ai](https://github.com/yourusername/tracker-ai)
+Project Link: [https://github.com/Osama-2024-Ahmad/cost-tracker](https://github.com/Osama-2024-Ahmad/cost-tracker)
 
