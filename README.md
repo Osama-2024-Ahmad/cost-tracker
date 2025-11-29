@@ -13,6 +13,12 @@
 
 Tracker AI is an intelligent expense tracking application that transforms financial management through AI-powered categorization and insightful analytics. This comprehensive solution combines cutting-edge artificial intelligence with an intuitive design to help users optimize their budgets and make data-driven financial decisions.
 
+## 🚀 Live Demo
+
+**[View Live Application](https://cost-tracker-five.vercel.app)**
+
+Experience the app in action! The application is deployed on Vercel and ready to use.
+
 ## Features
 
 - 🤖 **AI-Powered Categorization**: Automatically categorize expenses using advanced machine learning algorithms
